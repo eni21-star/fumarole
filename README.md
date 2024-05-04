@@ -1,1 +1,2 @@
-# FUMAROLE Nigeria Limited is a leader in engineering consultancy/construction and procurement of different types of Equipment/materials in the oil and gas industries. Our capacity covers a spectrum, from feasibility studies, design, procurement, construction and commisioning of projects in Electrical, Mechanical and Civil Engineering.
+# FUMAROLE Nigeria 
+Fumarole Limited is a leader in engineering consultancy/construction and procurement of different types of Equipment/materials in the oil and gas industries. Our capacity covers a spectrum, from feasibility studies, design, procurement, construction and commisioning of projects in Electrical, Mechanical and Civil Engineering.
